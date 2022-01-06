@@ -1,8 +1,6 @@
-body{
-    font-family: 'Bebas Neue', cursive;
-}
-#orange{
-    color: cyan;
+
+.orange{
+    color: rgb(17, 70, 70);
 }
 #first-border{
     border-radius: 10px;
@@ -10,6 +8,8 @@ body{
     border-image: linear-gradient(yellow,orange) 1 ;
     padding-left: 1%;
     font-size: 50px;
+   font-family: 'Bebas Neue', cursive;
+
 }
 .flexation{
     display: flex;
@@ -33,6 +33,57 @@ body{
     padding: 10px;
     border-radius: 15px;
 }
+#first{
+    margin: 25px;
+}
+#para{
+    font-variant: small-caps;
+}
+#middel{
+    text-align: center;
+    font-size: 120px;
+    font-family: 'Bebas Neue', cursive;
+    width: 100%;
+}
+#second-fu{
+    width:100%;
+    display: flex;
 
+}
+#last{
+    background-color: yellow;
+    border-radius: 5px;
+    width: 30%;
+    margin-left: 2%;
+    margin-bottom: 4%;
+    padding: 3%;
+    margin-right: 4%;
+}
+#second-last{
+    background-color: pink;
+    border-radius: 5px;
+    width: 30%;
+    margin-left: 2%;
+    padding: 3%;
+    margin-bottom: 4%;
+    
+    
+}
+#first-last{
+    background-color: rgb(61, 40, 148);
+    border-radius: 5px;
+    width: 30%;
+    margin-left: 2%;
+    padding: 3%;
+    margin-bottom: 4%;
+}
+.pera-two{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
 
-
+}
+.head{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bolder;
+}
