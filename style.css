@@ -1,0 +1,38 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+#orange{
+    color: cyan;
+}
+#first-border{
+    border-radius: 10px;
+    border-left: 5px solid;
+    border-image: linear-gradient(yellow,orange) 1 ;
+    padding-left: 1%;
+    font-size: 50px;
+}
+.flexation{
+    display: flex;
+}
+#image-one{
+    display: block;
+    width: 40%;
+    margin-left: 280px;
+    margin-bottom: 80px;
+}
+#first-width{
+    margin-left: 10%;
+}
+.firstp{
+    font-size: 40px;
+}
+#anchor-one{
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(cyan, skyblue) ;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+
